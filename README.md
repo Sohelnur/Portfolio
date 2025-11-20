@@ -11,6 +11,6 @@ This portfolio highlights my ability to transform raw data into meaningful insig
 
 - Build interactive dashboards and visual stories using Power BI and Excel.
 
- -Present analytical case studies that reflect business decision-making scenarios.
+- Present analytical case studies that reflect business decision-making scenarios.
 
 - Maintain a structured, professional portfolio for recruiters and industry experts.
